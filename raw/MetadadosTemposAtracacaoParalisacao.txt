@@ -1,0 +1,6 @@
+﻿Atributo;Descrição
+IDTemposDescontos;Código sequencial de identificação do tempo de paralisação da atracação.
+IDAtracacao;Código de identificação da atracação.
+DescricaoTempoDesconto;Descrição do motivo do tempo de paralisação da atracação.
+DTInicio;Data e hora de início da paralisação da atracação (yyyy-MM-dd hh:mm:ss).
+DTTermino;Data e hora de término da paralisação da atracação (yyyy-MM-dd hh:mm:ss).

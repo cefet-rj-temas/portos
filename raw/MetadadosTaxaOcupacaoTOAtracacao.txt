@@ -1,0 +1,7 @@
+﻿Atributo;Descrição
+IDBerco;Código de identificação do berço do porto informante.
+DSTipoOperacaoAtracacaoTaxaOcupacao;Tipo de operação (finalidade) da atracação: Movimentação da Carga, Apoio, Marinha, Abastecimento, Reparo/Manutenção, Misto ou Retirada de Resíduos.
+DiaTaxaOcupacao;Dia de ocupação do berço
+MêsTaxaOcupacao;Mês de ocupação do berço
+AnoTaxaOcupacao;Ano de ocupação do berço
+TempoEmMinutosdiasTOAtracacao;Tempo em minutos do dia com o berço ocupado para cada tipo de operação da atracação

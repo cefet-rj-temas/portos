@@ -1,0 +1,6 @@
+﻿Atributo;Descrição
+IDBerco;Código de identificação do berço do porto informante.
+DiaTaxaOcupacao;Dia de ocupação do berço
+MêsTaxaOcupacao;Mês de ocupação do berço
+AnoTaxaOcupacao;Ano de ocupação do berço
+TempoEmMinutosdias;Tempo em minutos do dia com o berço ocupado para todos os tipos de operação da atracação

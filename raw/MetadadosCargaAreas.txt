@@ -1,0 +1,6 @@
+﻿Atributo;Descrição
+IDCarga;Código de identificação da carga. Ligação com a tabela de carga.
+Código de Área;Código que identifica uma área específica dentro do porto organizado. Para os terminais autorizados é preenchido com o código da instalação portuária na Antaq.
+Nome da Área;"Nome adotado pela autoridade portuária para identificar uma área específica dentro do porto organizado, correspondendo à origem (no embarque) ou destino (no desembarque) da carga para armazenagem antes da saída definitiva do porto. Caso a carga embarcada tenha origem fora do porto organizado (ou a carga desembarcada tenha destino fora do porto), o nome da área apresentado será ""embarque/desembarque direto"". Para os terminais autorizados, o nome da área é a própria instalação portuária."
+n° CNPJ;Número do CNPJ associado a empresa responsável pela área dentro do porto organizado. Para os terminais autorizados, o valor corresponde ao CNPJ do terminal autorizado.
+Empresa;"Nome da empresa (razão social) responsável pela área dentro do porto organizado, obtido da associação do nome da área com o cadastro de empresa. Caso o nome da área seja ""embarque/desembarque direto"
